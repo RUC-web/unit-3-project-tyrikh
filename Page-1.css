@@ -1,0 +1,26 @@
+.main-1{
+
+  border-radius: 1.2em "white";
+
+}
+html{
+  <meta name="viewport” content="width=device-width, initial-scale=1">
+}
+:root{
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size:1.2em;
+  line-height:1.3;
+}
+p {
+    border: 1px "grey";
+}
+p {
+    border: 1px solid powderblue;
+    margin: 50px;
+}
+html*{
+box-sizing:borderbox;
+}
+rt{
+  text-size:1.2em
+}
